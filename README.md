@@ -291,10 +291,7 @@ POST https://your-n8n-instance.com/webhook/otc-agent
 ## 👨‍💻 Author
 
 **Pradeep Karra**
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/pradeepkarra]
-- 🌐 Portfolio: [your-portfolio-url]
-- 📍 Location: [Your Location]
+- 📧 Email: [Karra1p@cmich.edu]
 
 ### Skills Demonstrated
 - Workflow Automation & Process Optimization
