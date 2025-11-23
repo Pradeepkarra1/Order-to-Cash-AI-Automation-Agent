@@ -1,0 +1,11 @@
+Payment_ID,Amount,Payment_Date,Reference,Customer_Name
+PAY-001,15000.00,2025-11-12,INV-001,Acme Corporation
+PAY-002,7500.50,2025-11-26,INV-002,TechStart Inc
+PAY-003,22000.00,2025-12-06,INV-003,GlobalTrade Ltd
+PAY-004,5000.00,2025-11-21,INV-004,DataFlow Systems
+PAY-005,12509.75,2025-11-29,INV-005,Innovate Solutions
+PAY-006,30000.00,2025-12-11,INV-006,Enterprise Corp
+PAY-007,8000.00,2025-11-16,INV-007,SmartBiz LLC
+PAY-008,9200.00,2025-11-28,INV-009,Digital Dynamics
+PAY-009,6500.00,2025-12-03,INV-010,CloudNet Services
+PAY-010,15000.00,2025-11-18,Duplicate Payment,Acme Corporation
