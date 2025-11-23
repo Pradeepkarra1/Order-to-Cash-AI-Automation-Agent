@@ -1,0 +1,8 @@
+Dispute_ID,Customer_Name,Issue_Type,Priority,Description,Invoice_ID
+DISP-001,Acme Corporation,Billing Error,High,Invoice amount doesn't match agreed contract price,INV-001
+DISP-002,FutureTech Partners,Quality Issue,High,Services delivered did not meet specifications in SOW,INV-008
+DISP-003,GlobalTrade Ltd,Payment Dispute,Medium,Customer claims they already paid this invoice,INV-003
+DISP-004,Innovate Solutions,Invoice Not Received,Low,Customer states they never received the original invoice,INV-005
+DISP-005,Enterprise Corp,Pricing Discrepancy,High,Volume discount was not applied as agreed,INV-006
+DISP-006,Digital Dynamics,Service Complaint,Medium,Customer disputes the quality of deliverables,INV-009
+DISP-007,DataFlow Systems,Duplicate Invoice,Low,Customer received duplicate invoices for same service,INV-004
